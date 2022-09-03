@@ -27,19 +27,17 @@ print(Hyperion_obf.obfuscate(file="code.py"))
 
 The function obfuscate have 4 parameters:
 
-  file: The name of the file you want to be obfuscated.
-
-  script: The script to obfuscate.
-
-  skiprenaming: If true all the variables won't be renamed
-
-  skipchunks: If true the script will skip the protection of chunks
-
+file: The name of the file you want to be obfuscated.
+script: The script to obfuscate.
+skiprenaming: If true all the variables won't be renamed
+skipchunks: If true the script will skip the protection of chunks
 
 # Credits
 
 Hyperion is made by Billythegoat356 & Bluered
 
-I just made the module , all the merit is theirs
+I just made a module , all the merit is theirs
+
+https://obf.plague.fun/obf/
 
 https://github.com/billythegoat356/Hyperion
