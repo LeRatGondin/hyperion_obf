@@ -27,13 +27,13 @@ print(Hyperion_obf.obfuscate(file="code.py"))
 
 The function obfuscate have 4 parameters:
 
-file: The name of the file you want to be obfuscated.
+  file: The name of the file you want to be obfuscated.
 
-script: The script to obfuscate.
+  script: The script to obfuscate.
 
-skiprenaming: If true all the variables won't be renamed
+  skiprenaming: If true all the variables won't be renamed
 
-skipchunks: If true the script will skip the protection of chunks
+  skipchunks: If true the script will skip the protection of chunks
 
 
 # Credits
