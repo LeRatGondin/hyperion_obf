@@ -40,8 +40,6 @@ The function obfuscate have 4 parameters:
 
 Hyperion is made by Billythegoat356 & Bluered
 
-I just made a module , all the merit is theirs
-
-https://obf.plague.fun/obf/
+I just made the module , all the merit is theirs
 
 https://github.com/billythegoat356/Hyperion
